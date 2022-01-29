@@ -5,4 +5,4 @@ The model mimics the Complemenary Learning System of the brain i.e. the Long Ter
 
 After implementing the Dynamic Matchmaking Machine, the modified model combined the power of generalisation and the ability of Short Term Learning System to retain new information to predict better output using MNIST dataset.
 
-For more details on implementation and Analysis please refer to the [report]()
+For more details on implementation and Analysis please refer to the [report](https://github.com/Karan-Pardasani/Dynamic-Matchmaking-Machine/blob/main/Report_Dynamic_Matchmaking_Machine.pdf)
